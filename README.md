@@ -76,13 +76,13 @@ The dashboard presents a comprehensive overview of workforce metrics:
 - **Interactive Metric Overview:**
     - Users can explore workforce metrics by various dimensions such as department, position, gender, citizenship, age, marital status, and ethnicity.
 
-![Screenshot 2025-03-09 at 10.44.19 pm.png](attachment:b39375d2-b479-4c0a-b1f3-789707c45ee0:Screenshot_2025-03-09_at_10.44.19_pm.png)
+<img width="980" alt="Image" src="https://github.com/user-attachments/assets/6c116d37-02da-41b6-a929-9196d3d94153" />
 
 The Filter Panel on the left side enables filtering by employee name, performance score, and manager name, offering enhanced interactivity and personalized insights.
 
 ### Workforce Database
 
-![Screenshot 2025-03-09 at 10.47.39 pm.png](attachment:dcaf4626-c5b4-4feb-98ad-83147566aa8b:Screenshot_2025-03-09_at_10.47.39_pm.png)
+<img width="982" alt="Image" src="https://github.com/user-attachments/assets/717b9788-7f7d-47e0-ac22-a8bacc9ee0cd" />
 
 This Workforce Database Dashboard is designed to provide clients with a comprehensive view of employee data, allowing them to easily filter, analyze, and compare key performance metrics.
 
@@ -103,7 +103,7 @@ This Workforce Database Dashboard is designed to provide clients with a comprehe
     To visually highlight the retention risk of each employee, an icon system is employed. Icons provide immediate insight into the likelihood of an employee leaving the organization, helping management to take proactive steps in addressing potential turnover. This feature uses intuitive symbols to indicate low, moderate, or high retention risk, offering actionable insights at a glance.
     
 
-![Screenshot 2025-03-09 at 10.57.02 pm.png](attachment:41b5777d-4518-4862-93a2-29d3421687c6:Screenshot_2025-03-09_at_10.57.02_pm.png)
+<img width="980" alt="Image" src="https://github.com/user-attachments/assets/05e9f04b-85d9-419a-bad4-ccd91abe8013" />
 
 The dashboard includes a powerful filter panel that enables clients to refine the data based on several key parameters: Employee Name, Department, Performance, Manager Name
 
